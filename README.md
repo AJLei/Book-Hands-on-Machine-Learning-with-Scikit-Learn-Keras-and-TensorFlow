@@ -4,3 +4,5 @@ Projects from Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow
 Chapter 2: Housing
 
 Chapter 3: MNIST
+
+Chapter 4: Training Models
